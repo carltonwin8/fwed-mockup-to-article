@@ -13,6 +13,6 @@ This repo contains the project listed as the header above for the
 The view of the
 [html](index.html)
 can be seen
-[here](http:/carltonwin8.github.com/fwed-mockup-to-article
+[here](http:/carltonwin8.github.com/fwed-mockup-to-article)
 and my reflections.txt is
 [here](reflections.txt).
