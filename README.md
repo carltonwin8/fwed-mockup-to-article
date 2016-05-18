@@ -10,7 +10,9 @@ This repo contains the project listed as the header above for the
 [Udacity](http://www.udacity.com/)
 [Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001).
 
-The main file is
-[here](index.html)
+The view of the
+[html](index.html)
+can be seen
+[here](http:/carltonwin8.github.com/fwed-mockup-to-article
 and my reflections.txt is
 [here](reflections.txt).
